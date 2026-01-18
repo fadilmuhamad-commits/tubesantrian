@@ -199,3 +199,5 @@ Route::middleware('auth')->group(function () {
     });
   });
 });
+
+// Documentation: route file maintained
