@@ -1,5 +1,10 @@
 @props(['client' => false, 'data' => []])
 
+<!-- {{-- Card antrian: struktur utama --}}
+<div data-component="ambil-antrian-card">
+    {{-- existing code --}}
+</div> -->
+
 <style>
   .btn-outline-primary:hover {
     color: #fff;
